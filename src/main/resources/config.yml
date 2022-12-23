@@ -1,0 +1,11 @@
+MySQL:
+  host: localhost
+  port: 3306
+  database: minecraft
+  username: minecraft
+  password: minecraft1234
+
+# Activity1 衝撞山羊
+# Activity2 冬季雪球大戰
+# Activity3 科技槍戰
+# Activity4 喪屍圍城

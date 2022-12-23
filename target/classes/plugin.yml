@@ -1,0 +1,10 @@
+name: SmileLabXMas
+version: '1.0-SNAPSHOT'
+main: me.yiyi1234.smilelabxmas.SmileLabXMas
+api-version: 1.17
+
+commands:
+  SmileLabXMas:
+
+depend:
+  - PlaceholderAPI
